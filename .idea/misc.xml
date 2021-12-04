@@ -11,13 +11,15 @@
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/drawable/ic_launcher_background.xml" value="0.221875" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.3828125" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_guide.xml" value="0.25" />
-        <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_main.xml" value="0.45208333333333334" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_poll.xml" value="0.33" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_poll2.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_poll3.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/layout/header_main_menu.xml" value="0.33" />
         <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/menu/gude_main_menu.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/HYPERPC/AndroidStudioProjects/AppCov/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2421875" />
       </map>
     </option>
   </component>

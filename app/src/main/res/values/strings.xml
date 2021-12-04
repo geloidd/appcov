@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">AppCov</string>
-    <string name="btn_submit">Подтвердить</string>
-    <string name="category_1">Отдел 1</string>
-    <string name="category_2">Отдел 2</string>
-    <string name="category_3">Отдел 3</string>
-    <string name="category_4">Отдел 4</string>
+    <string name="btn_submit">Подтвердить </string>
+    <string name="category_1">Мой профиль </string>
+    <string name="category_2">Дневник </string>
+    <string name="category_3">Выход </string>
 </resources>

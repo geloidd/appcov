@@ -13,9 +13,9 @@
         <item android:title="@string/category_3"
             android:id="@+id/c_3"
             android:icon="@drawable/ic_cat_1"/>
-        <item android:title="@string/category_4"
-            android:id="@+id/c_4"
-            android:icon="@drawable/ic_cat_1"/>
+<!--        <item android:title="@string/category_4"-->
+<!--            android:id="@+id/c_4"-->
+<!--            android:icon="@drawable/ic_cat_1"/>-->
     </group>
 
 </menu>
