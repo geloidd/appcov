@@ -3,5 +3,10 @@
     <string name="btn_submit">Подтвердить </string>
     <string name="category_1">Мой профиль </string>
     <string name="category_2">Дневник </string>
-    <string name="category_3">Выход </string>
+    <string name="category_3">NONE </string>
+    <string name="category_4">Выход </string>
+    <string name="open">Открыть</string>
+    <string name="close">закрыть</string>
+    <string name="prof">PROFILE</string>
+    <string name="diary">DIARY</string>
 </resources>

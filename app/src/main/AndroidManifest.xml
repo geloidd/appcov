@@ -15,12 +15,18 @@
         <activity
             android:name=".Guide"
             android:exported="true" />
-        <activity
-            android:name=".Poll2"
-            android:exported="true" />
+<!--        <activity-->
+<!--            android:name=".Poll2"-->
+<!--            android:exported="true" />-->
         <activity
             android:name=".Poll"
             android:exported="true" />
+<!--        <activity-->
+<!--            android:name=".DiaryFragment"-->
+<!--            android:exported="true" />-->
+<!--        <activity-->
+<!--            android:name=".ProfileActivity"-->
+<!--            android:exported="true" />-->
         <activity
             android:name=".SignInActivity"
             android:exported="true">

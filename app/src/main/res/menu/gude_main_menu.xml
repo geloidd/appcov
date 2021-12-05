@@ -9,13 +9,13 @@
             android:icon="@drawable/ic_cat_1"/>
         <item android:title="@string/category_2"
             android:id="@+id/c_2"
-            android:icon="@drawable/ic_cat_1"/>
+            android:icon="@drawable/drawer_button_diary"/>
         <item android:title="@string/category_3"
             android:id="@+id/c_3"
             android:icon="@drawable/ic_cat_1"/>
-<!--        <item android:title="@string/category_4"-->
-<!--            android:id="@+id/c_4"-->
-<!--            android:icon="@drawable/ic_cat_1"/>-->
+        <item android:title="@string/category_4"
+            android:id="@+id/c_4"
+            android:icon="@drawable/drawer_button_exit"/>
     </group>
 
 </menu>
